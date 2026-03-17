@@ -147,7 +147,7 @@ const Home: React.FC = () => {
       </div>
 
       <div className="conte">
-        <h1>dGSFDADSDASDDSd</h1>
+        <h1>dGSFDADSDdsdasdasdsdasdaASDDSd</h1>
       </div>
 
     </main>
