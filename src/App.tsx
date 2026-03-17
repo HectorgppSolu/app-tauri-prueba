@@ -1,36 +1,16 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import reactLogo from "./assets/react.svg";
 import { invoke } from "@tauri-apps/api/core";
 import "./App.css";
 import 'flowbite/dist/flowbite.min.js'
-import { check } from "@tauri-apps/plugin-updater";
-import { relaunch } from "@tauri-apps/plugin-process";
-
 
 function App() {
   const [greetMsg, setGreetMsg] = useState("");
   const [name, setName] = useState("");
 
   async function greet() {
-    // Learn more about Tauri commands at https://tauri.app/develop/calling-rust/
     setGreetMsg(await invoke("greet", { name }));
   }
-
-  useEffect(() => {
-    async function checkUpdate() {
-      const update = await check();
-
-      if (update) {
-        console.log("Nueva versión:", update.version);
-
-        await update.downloadAndInstall();
-
-        await relaunch();
-      }
-    }
-
-    checkUpdate();
-  }, []);
 
   return (
     <main className="container">
