@@ -1,11 +1,11 @@
 {
-  "version": "0.2.6",
+  "version": "0.2.8",
   "notes": "Primera version",
   "pub_date": "2026-03-12T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUWw0cVExVm4xNGNRRXM5Mk5uVkFNTExRd2NvNGc0QTVjSkx0Y3ZxWisrbGtDNnMySjc0bGpqR2gzcHBIY2REcDkxQ3Rhc2hscWtsbkh4Z1ZKYy9ScERpT0kwSkJENVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNzg0OTkwCWZpbGU6cHJ1ZWJhMnRhdXJpXzAuMi42X3g2NF9lbi1VUy5tc2kKaVpZS2FSVTJCYitPeHZ1ODdqdEZqTjREZ2lENWh0aGhBb2hHcW9nejJHTzZaczlnd3VqeG5OSU40N3prN0p2RGVEci9IampYOFlmNDJYNUp6a3RHQ2c9PQo=",
-      "url": "https://github.com/HectorgppSolu/app-tauri-prueba/releases/download/v0.2.6/prueba2tauri_0.2.6_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUWw0cVExVm4xNFZ4ZzlvcG5uSldNR3MrTk5PbGg0aVBhdUV5S3ppcUVlRG0vakVjT3Q3WTVoaldMZWFDK25QUUFBSTFaRTF5MFNGV0FFRjhmZkl1UDBZRFFLZG43QVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNzg1ODYxCWZpbGU6cHJ1ZWJhMnRhdXJpXzAuMi44X3g2NF9lbi1VUy5tc2kKYnEwNjNEcFJhZ1lpekJSRDJRNnJVRjMzNTB1czJ6Y2JQcFRkOVFVU244WDQ5N2ZlT1RXSkFrM0dHZzFiN2M4VmFPcVJOaFV6YWxPejl6VENzSzgwQUE9PQo=",
+      "url": "https://github.com/HectorgppSolu/app-tauri-prueba/releases/download/v0.2.8/prueba2tauri_0.2.8_x64_en-US.msi"
     }
   }
 }
