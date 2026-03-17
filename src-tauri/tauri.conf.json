@@ -1,7 +1,7 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
   "productName": "prueba2tauri",
-  "version": "0.1.0",
+  "version": "0.2.2",
   "identifier": "com-hector.prueba2tauri",
   "build": {
     "beforeDevCommand": "npm run dev",
@@ -38,7 +38,7 @@
         "https://github.com//HectorgppSolu/app-tauri-prueba/releases/latest/download/latest.json"
       ],
       "dialog": true,
-      "pubkey": "TU_PUBLIC_KEY"
+      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEU0RTBGMjE4NzA4NUI2RjgKUldUNHRvVndHUExnNUFXMWFGNGFlczhkTjJlWDdkUngyNHNYVFlRRkdUUTZkaEs4UnhoZ0ZlY0MK"
     }
   }
 }

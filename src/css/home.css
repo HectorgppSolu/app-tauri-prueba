@@ -3,3 +3,8 @@
 @tailwind utilities;
 
 @import "flowbite";
+
+
+body{
+    background: gray;
+}

@@ -146,6 +146,10 @@ const Home: React.FC = () => {
         </div>
       </div>
 
+      <div className="conte">
+        <h1>dGSFDADSDASDDSd</h1>
+      </div>
+
     </main>
   );
 };
