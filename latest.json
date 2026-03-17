@@ -1,11 +1,11 @@
 {
-  "version": "0.2.3",
+  "version": "0.2.4",
   "notes": "Primera version",
   "pub_date": "2026-03-12T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXk",
-      "url": "https://github.com/HectorgppSolu/app-tauri-prueba/releases/download/v0.2.3rueba2tauri_0.2.3x64_en-US.msi"
+      "url": "https://github.com/HectorgppSolu/app-tauri-prueba/releases/download/v0.2.4/prueba2tauri_0.2.4_x64_en-US.msi"
     }
   }
 }
