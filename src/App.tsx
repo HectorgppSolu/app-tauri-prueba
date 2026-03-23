@@ -3,6 +3,7 @@ import reactLogo from "./assets/react.svg";
 import { invoke } from "@tauri-apps/api/core";
 import "./App.css";
 import 'flowbite/dist/flowbite.min.js'
+import CheckUpdates from "./CheckUpdates";
 
 function App() {
   const [greetMsg, setGreetMsg] = useState("");
@@ -13,7 +14,9 @@ function App() {
   }
 
   return (
+      
     <main className="container">
+      <CheckUpdates />
       <h1>Welcome to Tauri + React</h1>
 
       <div className="row">
